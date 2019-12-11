@@ -1,7 +1,7 @@
 {
   "name": "inspect",
   "version": "1.0.0",
-  "description": "Inspect is a secured and comfortable revolutionary exam app for schools conducting student exams. It helps students far and near to effortlessly take exams in their comfort zone, anywhere and everywhere. The school's admins, teacher or anyone assigned for the examination inspection ( Inspectors ) will be able to watch the student while writing the exam.",
+  "description": "Inspect is a secured and comfortable revolutionary exam app for schools conducting student exams.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

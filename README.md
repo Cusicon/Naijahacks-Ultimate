@@ -13,7 +13,7 @@ Ayodele Olaleye <https://github.com/haryorolal> <br>
 Email: <haryorolal2@gmail.com>
 
 **Graphical contents** <br>
-Ogeyi Ebinyi <https://github.com/username> <br>
+Ogeyi Ebinyi <https://github.com/codeogey> <br>
 Email: <media9007@gmail.com>
 
 # Project name: Inspect
