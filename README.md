@@ -1,6 +1,4 @@
-# Team
-
-#### Name: Team Ultimate
+# Team Ultimate
 
 This team is made up of four (4) smart and innovative members.
 
@@ -51,4 +49,5 @@ I have learned a lot through the duration of this project, but what I learn most
 ## **What's next for Inspect**
 
 By the Grace of God, we win the **Educational Category** of this Hackathon (Naijahacks2019) and **get funded**, we will make sure the best version of **Inspect** will be used all over Africa as the Official local and international online examination portal.
+
 # Naijahacks-Ultimate
