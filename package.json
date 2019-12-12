@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Inspect is a secured and comfortable revolutionary exam app for schools conducting student exams.",
   "main": "app.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
   },
   "repository": {
     "type": "git",
