@@ -4,7 +4,7 @@ let cookieParser = require("cookie-parser");
 let logger = require("morgan");
 
 let dashboardRouter = require("./api/routes/dashboard");
-let studentRouter = require("./api/routes/student");
+let profileRouter = require("./api/routes/profile");
 let examBoard = require("./api/routes/examboard");
 let loginAuth = require("./api/auth/login");
 
@@ -18,7 +18,7 @@ app.use(cookieParser());
 // GENERAL
 
 app.use("/", dashboardRouter);
-app.use("/student", studentRouter);
+app.use("/profile", profileRouter);
 app.use("/examboard", examBoard);
 
 // AUTH
